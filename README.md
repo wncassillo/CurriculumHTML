@@ -1,2 +1,2 @@
 <h2>Meu Curriculum Vitae em HTML</h2>
-<p>Criando um currículo 100% em HTML!</p>
+<p>Tarefa na matéria "Programação WEB" onde deveriamos criar nosso currículo, 100% em HTML!</p>
